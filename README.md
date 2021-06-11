@@ -23,8 +23,11 @@ To use AWS SDK, we'll need a few things:
 # How to run
 We should change the parameters of our aws account in the config.properties for use in our project.
 config.properties :
+
 amazon.aws.access.key=key
+
 amazon.aws.secret.key=key1
+
 region=ca-central-1
 
 
