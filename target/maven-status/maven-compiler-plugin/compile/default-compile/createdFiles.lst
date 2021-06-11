@@ -1,1 +1,3 @@
-aws\example\ec2\StartStopInstance.class
+aws\example\helpers\Configuration.class
+aws\example\ec2\Main.class
+aws\example\ec2\EC2Application.class
