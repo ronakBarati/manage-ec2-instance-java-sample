@@ -1,5 +1,6 @@
-package aws.example.ec2;
+package com.aranite.assessment.ec2;
 
+import com.aranite.assessment.helper.EC2Application;
 import com.amazonaws.services.ec2.AmazonEC2;
 import org.apache.commons.cli.*;
 

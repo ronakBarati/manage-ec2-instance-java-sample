@@ -33,7 +33,9 @@ region=ca-central-1
 
 After that run following command to start and stop our instance : 
 
-< mvn exec:java -Dexec.args="-command start -instanceId instance-id">
+mvn install
+
+mvn exec:java -Dexec.args="-command start -instanceId instance-id"
 
 command line arguments :
 -command         start or stop

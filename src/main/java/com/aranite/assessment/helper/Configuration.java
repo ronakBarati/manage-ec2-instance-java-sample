@@ -1,4 +1,4 @@
-package aws.example.helpers;
+package com.aranite.assessment.helper;
 
 import java.io.FileInputStream;
 import java.io.IOException;

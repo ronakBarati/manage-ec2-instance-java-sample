@@ -1,6 +1,5 @@
-package aws.example.ec2;
+package com.aranite.assessment.helper;
 
-import aws.example.helpers.Configuration;
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;
